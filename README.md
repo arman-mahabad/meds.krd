@@ -9,7 +9,7 @@
 
 **A study platform for medical students in Kurdistan: their own lectures, a plan for today, and practice that remembers what each student gets wrong.**
 
-[Open meds.krd ↗](https://www.meds.krd) &nbsp;·&nbsp; Live &nbsp;·&nbsp; The code is private. This page shows the product.
+[Open meds.krd ↗](https://www.meds.krd) &nbsp;·&nbsp; Live now &nbsp;·&nbsp; The code is private, so this page shows the product instead.
 
 <img src="assets/divider.svg" width="100%" alt="">
 
@@ -27,7 +27,7 @@ Inside Meds.krd, a pipeline turns a lecture into readable parts and practice que
 
 ## How it's built
 
-**More than 5,000 automated tests,** unit and browser. The browser tests also compare key screens against approved pictures, so an unplanned layout change fails the run.
+**More than 5,000 automated tests,** unit and browser. The browser tests also compare key screens against approved screenshots, so an unplanned layout change fails the run.
 
 **An evidence log.** I keep one for Meds.krd: each claim, the date it was checked, how, and what the check does not prove. It has more than 400 dated entries.
 
@@ -41,4 +41,4 @@ I can walk you through the code on a call: [arman@byarman.site](mailto:arman@bya
 
 More of my work: [byarman.site](https://byarman.site) &nbsp;·&nbsp; [github.com/arman-mahabad](https://github.com/arman-mahabad)
 
-<img src="assets/rosette.svg" width="18" alt="">
+<img src="assets/rosette.svg" width="18" alt="Meds.krd rosette mark">
